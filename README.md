@@ -3,7 +3,7 @@ Hey 👋🏾, I'm Daniel.
 
 I make a living solving problems with clean code and good prose.
 
-I know a bit about: BDD, TDD, Clean Architecture, APIs, Python, Javascript, AWS, Docker, FP & OOP Design Patterns, Algorithms & Data Structures, DDD
+I know a bit about: Software Design, Systems Design (on AWS), Algorithms & Data Structures, Python & Javascript
 
 I'm picking up: Nim, Deno, Browser APIs, Clean Architecture in the Browser, Rust, Formal Methods, Distributed Systems
 
